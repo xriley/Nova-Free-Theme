@@ -31,7 +31,7 @@ If you'd like to **use the template without the attribution**, you can [buy the 
 ## Latest Version
 **v1.0** - 28 Sep 2018
 
-[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/all/free-bootstrap4-resume-cv-template-for-developers-pillar/?target=changelog)
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/?target=changelog)
 
 
 
