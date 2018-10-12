@@ -1,0 +1,226 @@
+.site-headline {
+	font-size: 2.25rem;
+}
+
+.site-tagline {
+	font-size: 1.375rem;
+}
+
+.hero-section {
+
+	.figure-holder {
+		background: url("../images/hero-figure.png") no-repeat right top;
+		background-size: 480px auto;
+		min-height: 600px;
+	}
+	
+	.app-stores {
+		img {
+			height: 45px;
+		}
+	}
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	//IE9 + 10
+   .hero-section .app-stores img {
+	   &.ios {
+		   width: 135px;
+	   }
+	   &.android {
+		   width: 152.25px;
+	   }
+   }
+}
+
+
+
+.section-intro {
+	font-size: 1.25rem;
+}
+
+.logos-section {
+	.item {
+		@include opacity(0.4);
+		img {
+			width: 140px;
+			height: auto;
+		}
+	
+	}
+	h3 {
+		font-size: 1.5rem;
+		font-weight: normal;
+		@include opacity(0.6);
+	}
+}
+
+
+.features-section {
+	position: relative;
+	overflow: hidden;
+	&:before {
+		position: absolute;
+	    content: '';
+	    display: block;
+	    left: -60%;
+	    top: -150px;
+	    height: 75%;
+	    -webkit-transform: rotate(-12deg);
+	    transform: rotate(-12deg);
+	    width: 180%;
+	    background: $theme-bg-light;
+	}
+	
+	.section-heading {
+		z-index: 10;
+		position: relative;
+	}
+}
+
+
+.flipster-carousel{
+	display: none; //prevent FOUC
+	&.flipster--active {
+		display: block;
+	}
+}
+
+
+
+.flip-item {
+	width: 420px;
+	
+	
+	.item-inner {
+		padding: 2rem;
+		//@include border-radius(4px);
+		border: 1px solid $theme-border-color;
+		background: #fff;
+	}
+	
+	.source-profile{
+		width: 80px;
+		height: 80px;
+	}
+	
+	.source-info {
+		font-size: 0.875rem;
+	}
+}
+
+
+/* Override flipster plugin default styling */
+.flipster--coverflow .flipster__item__content {
+	box-reflect: unset;
+    -webkit-box-reflect: unset;
+	
+}
+
+.flipster__button {
+	width: 40px;
+	height: 40px;
+	margin-top: -3rem;
+	background: $theme-text-color-primary;
+	@include border-radius(50%);
+
+	svg {
+		width: 0.875rem;
+		
+		stroke: #fff;
+		
+		&:hover {
+			stroke: #fff;
+		}
+	}
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+	
+	.hero-section {
+		
+		.figure-holder {
+			min-height: 460px;
+			background-position: right 0px;
+			background-size: 360px auto;
+		}
+	}
+
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+	
+	.hero-section {
+		text-align: center;
+		
+		.figure-holder {
+			padding-bottom: 400px;
+			background-position: center 400px;
+			background-size: 300px auto;
+		}
+	}
+
+}
+
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+
+    .site-headline, .page-title {
+	    font-size: 2rem;
+    }
+    .site-tagline {
+	    font-size: 1.25rem;
+    }
+	.hero-section {
+		text-align: center;
+		
+		.figure-holder {
+			padding-bottom: 400px;
+			background-position: center 420px;
+			background-size: 300px auto;
+		}
+	}
+	.logos-row {
+		width: 90% !important;
+	}
+	
+	.features-section:before {
+		display: none;
+	}
+
+	.flip-item {
+		width: 100%;
+		text-align: center;
+	}
+	.flipster__button  {
+		background: none;
+		width: none;
+		svg {
+			stroke: $theme-text-color-primary;
+			&:hover {
+				stroke: $theme-text-color-primary;
+			}
+		}
+		
+	}
+	.source {
+		text-align: center;
+		.source-info {
+			width: 100%;
+		}
+	}
+	.flipster__button--prev {
+		left: -2rem;
+		
+	}
+	.flipster__button--next {
+		right: -2rem;
+	}
+	
+}
+
+
+	
