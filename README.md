@@ -29,7 +29,7 @@ If you'd like to **use the template without the attribution**, you can [buy the 
 
 
 ## Latest Version
-**v1.0** - 28 Sep 2018
+**v1.1** - 14 March 2018
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/?target=changelog)
 
@@ -50,6 +50,6 @@ If you'd like to **use the template without the attribution**, you can [buy the 
 - [jQuery](http://jquery.com/)
 - [jQuery Flipster](https://github.com/drien/jquery-flipster)
 - [Google Fonts](https://fonts.google.com/)
-- [AppKit Theme (Screenshots)](https://www.uxfordev.com/)
+- [Appify Theme (Screenshots)](https://themes.3rdwavemedia.com/bootstrap-templates/product/appify-bootstrap-4-admin-template-for-app-developers/)
 -  All images are shown for demonstration purposes only.
 
