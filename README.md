@@ -29,7 +29,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**v1.2** - 26 April 2020
+**v1.2.1** - 10 Oct 2020
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/?target=changelog)
 
