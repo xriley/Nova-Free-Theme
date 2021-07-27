@@ -1,10 +1,10 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/09/Bootstrap-Mobile-App-Landing-Page-Template-Nova.jpg" alt="Nova - Free Bootstrap 4 App Landing Page Template for Developers" /></a>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/09/Bootstrap-Mobile-App-Landing-Page-Template-Nova.jpg" alt="Nova - Free Bootstrap 5 App Landing Page Template for Developers" /></a>
 
 ## Theme Details & Demo
 
-**Demo:** https://themes.3rdwavemedia.com/demo/nova-free/
+**Demo:** https://themes.3rdwavemedia.com/demo/bs5/nova-free/
 
-Nova is a free Bootstrap 4 landing page template made for app developers. Using this template you can get your app’s site online quickly. It’s **perfect for any app marketing campaigns**. The design is focused on **encouraging visitors to download your app**. Built with Bootstrap 4 and Sass, it’s very easy to customise the template to suit your needs.
+Nova is a free Bootstrap 5 landing page template made for app developers. Using this template you can get your app’s site online quickly. It’s **perfect for any app marketing campaigns**. The design is focused on **encouraging visitors to download your app**. Built with Bootstrap 5 and Sass, it’s very easy to customise the template to suit your needs.
 
 ## Author & License
 
@@ -29,7 +29,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**v1.2.1** - 10 Oct 2020
+**Bootstrap 5 v1.0** - 2021-07-27
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/?target=changelog)
 
@@ -39,7 +39,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 -  Fully Responsive
 -  HTML5 + CSS3
--  Built on Bootstrap 4
+-  Built on Bootstrap 5
 -  **SCSS** source files included
 -  1000+ FontAwesome 5 icons
 
@@ -47,9 +47,6 @@ If you'd like to **use the template without the attribution link**, you can [buy
 ## Credits
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
-- [jQuery](http://jquery.com/)
-- [jQuery Flipster](https://github.com/drien/jquery-flipster)
 - [Google Fonts](https://fonts.google.com/)
-- [Appify Theme (Screenshots)](https://themes.3rdwavemedia.com/bootstrap-templates/product/appify-bootstrap-4-admin-template-for-app-developers/)
 -  All images are shown for demonstration purposes only.
 
