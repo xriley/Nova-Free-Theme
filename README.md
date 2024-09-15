@@ -15,7 +15,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 #### Follow Xiaoying
 
-[Twitter](https://twitter.com/3rdwave_themes)
+[X (Twitter)](https://twitter.com/3rdwave_themes)
 
 [Facebook](https://www.facebook.com/3rdwavethemes/)
 
@@ -29,7 +29,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**Bootstrap 5 v3.0** - 2023-06-22
+**Bootstrap 5 v3.1** - 2024-09-15
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/?target=changelog)
 
